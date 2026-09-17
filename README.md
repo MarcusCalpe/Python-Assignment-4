@@ -75,3 +75,9 @@ plt.ylabel('Average Score')
 plt.show()
 ```
 Lastly, for c, this utilizes `Matplotlib` to generate the visual comparison. `plt.figure(figsize=(15, 4))` establishes a single, wide template. the `plat.sublplot(1, 3, x)` function splits this template into a row and three columns, positioning the bar charts side-by-side. the `plt.bar()` function plots the calculated average in their respective category using customized hex color codes for visual distinction. Finally, `plt.show()` renders and completes the figure.
+
+
+README file Version History:
+September 13, 2026 - Initial README file uploaded
+
+September 17, 2026 - Uploaded Python Assignment #4 and board2.xlsx
